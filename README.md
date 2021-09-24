@@ -1,11 +1,11 @@
 # PVLIG12
-Ideas sueltas:
+Ideas sueltas (o temporales):
 Sistema de cordura
 Isla desierta --- Supervivencia? Tower defense?
 Terror :)
 Combate es mediante trampas, no armas
 Los monstruos no son reales, son parte de tu cabeza. Cuanto menos cordura, más monstruos
-Puedes defenderte de manera decente sin trampas, pero si te vienen varios estás FUCKED
+Puedes defenderte de manera decente sin trampas, pero si te vienen varios estás en problemas
 Trinkets? (crafteados con drops de monstruos)
 
 
