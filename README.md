@@ -1,34 +1,50 @@
 # PVLIG12
-Ideas sueltas (o temporales):
-Sistema de cordura
-Isla desierta --- Supervivencia? Tower defense?
-Terror :)
-Combate es mediante trampas, no armas
-Los monstruos no son reales, son parte de tu cabeza. Cuanto menos cordura, más monstruos
-Puedes defenderte de manera decente sin trampas, pero si te vienen varios estás en problemas
-Trinkets? (crafteados con drops de monstruos)
-
-
-
 Resumen
-Géneros: Survival-horror
+Géneros: Acción 
 Modos: Un Jugador
-Público objetivo: 
+Público objetivo: Adolescentes y adultos jóvenes
 Plataformas: Web
-El objetivo es sobrevivir tras despertarte (?) en una isla desierta repleta de monstruos. El jugador será capaz de pelear para defenderse, pero sobre todo tendrá que craftear trampas para proteger su base y su vida.
+Mecánicas
 
-Hay tres categorías de objetos: estructuras, materiales y herramientas.
-El jugador empieza con herramientas básicas que se podrán mejorar a medida que se avanza en el juego.
+Niveles: El recorrido del nivel se divide por zonas y el jugador dispondrá de un vehículo para moverse de una a otra. 
+
+Objetivos principales: En cada zona tiene que conseguir ciertos objetos para poder llevar a cabo ciertos objetivos. Tiene un tiempo límite con un contador que le mete prisa y estrés.
+
+Objetivos secundarios: obtener recursos para tu casa. Por  cada recurso opcional que no se recoja, la vida de la casa se reducirá.
+
+La dificultad de los niveles va aumentando cada día que pasa. 
+
+Consumibles/armas: A lo largo  del nivel puedes encontrar armas que te ayuden a defenderte con más eficacia o vendas para curarte.
+
+La finalidad sería un juego que combina combate y sigilo, involucrando mecánicas de agro y distancia a los enemigos.
+
+La curva de dificultad avanza con cada nivel, las hordas de pájaros van aumentando y cada vez son más agresivas, a su vez cada vez aparecen pájaros más peligrosos.
+
+Rescatar a la gente del pueblo. Objetivo principal.
+
+Puntuación final basada en días transcurridos, personas rescatadas y pájaros muertos.
 
 Dinámica
 
-Recolección de recursos: El jugador buscará yacimientos de recursos a lo largo de la isla. Los usará para crear estructuras y herramientas
+El jugador entrará a una escena en la que tiene unos objetivos que completar. 
+
+Paso de niveles: El jugador tendrá que rescatar a un personaje en cada nivel para superarlo. También habrá objetivos secundarios que podrán causar la muerte del jugador si se ignoran durante demasiado tiempo.
+
+Tiempo prestado: En cada nivel habrá un contador. A medida que avanza el contador el juego se hará a su vez más difícil, hasta ser injugable una vez terminado dicho contador.
+
+Estética
+
+Años 60 en un pueblo pesquero.
+
+Vista cenital (top-down), claro-oscuro, paisaje exterior.
+
+Un juego con salpicaduras de sangre y cristales rotos.
+
+Referencias
+
+AC - Assassin 's  Creed: tema de sigilo y agro.
+Inazuma Eleven: ataques esporádicos.
+Sistema de recolección de objetos: 60 segundos.
+Boxhead:  oleadas de pájaros y dinámica de la IA.
 
 
-
-
-Mejora de herramientas: El jugador tendrá que mejorar sus herramientas progresivamente para conseguir más y mejores materiales
-
-Construcción y mejora de estructuras: A medida que se consiguen nuevos materiales, se irá consiguiendo la capacidad de mejorar estructuras antiguas y elaborar 
-
-Los enemigos están inspirados en la película “Pájaros” de Alfred Hitchcock. Los enemigos están basados en los distintos tipos de pájaros, y sus habilidades dependen del tipo de pájaro.
